@@ -21,18 +21,18 @@ p {
 .box_width {
     width: 40%;
     float: left;
-    margin-left: 10px;
+    margin-left: 5%;
     padding-left: 2%;
 }
 
 section img {
-    width: 100%;
+    width: 80%;
 }
 
 section {
     height: 500px;
     padding-bottom: 250px;
-    padding-top: 30px;
+    /* padding-top: 30px; */
 }
 
 .top_banner {
