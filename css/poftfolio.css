@@ -10,6 +10,14 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
+p {
+    color: dimgray;
+}
+
 .box_width {
     width: 40%;
     float: left;
@@ -23,6 +31,7 @@ section img {
 
 section {
     height: 500px;
+    padding-bottom: 130px;
 }
 
 .top_banner {
@@ -36,5 +45,12 @@ section {
     border-radius: 5px;
     color: white;
     font-weight: 700;
+    text-decoration: none;
+}
+
+.career_area {
+    background-image: url(/img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
