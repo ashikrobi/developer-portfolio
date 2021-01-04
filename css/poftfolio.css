@@ -31,7 +31,8 @@ section img {
 
 section {
     height: 500px;
-    padding-bottom: 130px;
+    padding-bottom: 250px;
+    padding-top: 30px;
 }
 
 .top_banner {
