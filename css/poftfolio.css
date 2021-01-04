@@ -57,6 +57,25 @@ section {
 .apply_shadow {
     box-shadow: 10px 10px 20px grey;
     height: 80%;
+    background-color: white;
+}
+
+#writer_box {
+    border-left: 7px solid hotpink;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#director_box {
+    border-left: 7px solid blue;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+.works {
+    background-image: url(/img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 footer {
