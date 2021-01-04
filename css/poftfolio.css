@@ -1,4 +1,4 @@
-.name_highlight {
+.orange_highlight {
     color: orange;
 }
 body {
@@ -53,4 +53,14 @@ section {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.apply_shadow {
+    box-shadow: 10px 10px 20px grey;
+    height: 80%;
+}
+
+footer {
+    text-align: center;
+}
+
 
