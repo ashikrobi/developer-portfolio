@@ -1,3 +1,40 @@
-body {
-    font-family: 'Roboto', sans-serif;
+.name_highlight {
+    color: orange;
 }
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.box_width {
+    width: 40%;
+    float: left;
+    margin-left: 10px;
+    padding-left: 2%;
+}
+
+section img {
+    width: 100%;
+}
+
+section {
+    height: 500px;
+}
+
+.top_banner {
+    background-image: url("/img/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+.button {
+    background-image: linear-gradient(to right, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
